@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Lists.cpp
+  Generando código...
+main.obj : error LNK2019: símbolo externo "public: __thiscall Lists<int>::Lists<int>(void)" (??0?$Lists@H@@QAE@XZ) sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo "public: __thiscall Lists<int>::~Lists<int>(void)" (??1?$Lists@H@@QAE@XZ) sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo "public: void __thiscall Lists<int>::pushFront(int const &)" (?pushFront@?$Lists@H@@QAEXABH@Z) sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo "public: void __thiscall Lists<int>::pushBack(int const &)" (?pushBack@?$Lists@H@@QAEXABH@Z) sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo "public: void __thiscall Lists<int>::print(void)const " (?print@?$Lists@H@@QBEXXZ) sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo "public: void __thiscall Lists<int>::printReverse(void)const " (?printReverse@?$Lists@H@@QBEXXZ) sin resolver al que se hace referencia en la función _main
+C:\Users\marcg\OneDrive\Documentos\Project1\Debug\Project1.exe : fatal error LNK1120: 6 externos sin resolver

@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1-Maxito.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\marc\skydrive\documentos\citm\array-list\project1\lists.h(296): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\marc\skydrive\documentos\citm\array-list\project1\lists.h(294): note: while compiling class template member function 'void Lists<int>::print(void) const'
+  c:\users\marc\skydrive\documentos\citm\array-list\project1\main.cpp(156): note: see reference to function template instantiation 'void Lists<int>::print(void) const' being compiled
+  c:\users\marc\skydrive\documentos\citm\array-list\project1\main.cpp(148): note: see reference to class template instantiation 'Lists<int>' being compiled
+c:\users\marc\skydrive\documentos\citm\array-list\project1\lists.h(298): warning C4018: '<': signed/unsigned mismatch
+c:\users\marc\skydrive\documentos\citm\array-list\project1\main.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  c:\users\marc\skydrive\documentos\citm\array-list\project1\main.cpp(164): note: see reference to function template instantiation 'void print_array<int>(const Array<int> &)' being compiled
+c:\users\marc\skydrive\documentos\citm\array-list\project1\main.cpp(194): warning C4018: '<': signed/unsigned mismatch
+  c:\users\marc\skydrive\documentos\citm\array-list\project1\main.cpp(167): note: see reference to function template instantiation 'void List_to_Array<int>(Array<int> &,Lists<int> &)' being compiled
+c:\users\marc\skydrive\documentos\citm\array-list\project1\main.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\marc\skydrive\documentos\citm\array-list\project1\lists.h(261): warning C4715: 'Lists<int>::getValue': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Marc\SkyDrive\Documentos\CITM\Array-List\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Marc\SkyDrive\Documentos\CITM\Array-List\Debug\Project1.pdb (Partial PDB)
